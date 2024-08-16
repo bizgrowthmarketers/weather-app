@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/real-state-homyz/static/css/main.c9b84298.css",
+    "main.js": "/real-state-homyz/static/js/main.abb8bd97.js",
+    "index.html": "/real-state-homyz/index.html",
+    "main.c9b84298.css.map": "/real-state-homyz/static/css/main.c9b84298.css.map",
+    "main.abb8bd97.js.map": "/real-state-homyz/static/js/main.abb8bd97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b84298.css",
+    "static/js/main.abb8bd97.js"
+  ]
+}
